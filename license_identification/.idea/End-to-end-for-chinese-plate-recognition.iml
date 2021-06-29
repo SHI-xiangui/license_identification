@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/License-plate-recognition/CNN" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/License-plate-recognition/Unet" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/License-plate-recognition/core" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/License-plate-recognition/show_Tools" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/License-plate-recognition/video_camera" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.7 (base)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="车牌识别" />
+  </component>
+</module>
